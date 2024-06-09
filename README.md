@@ -55,29 +55,7 @@
          efqxsqciitepovwzytawitizyrytooaniiooqlassteocmancmgqovktqwanooqlekytqhkioaawesytad
 
 
+![](/Code.png)
 
-
-`Algorithm1 MATRIX-MULTIPLY(A,B)`
-
-`1: if A.columns B.rows then`
-`2:     error incompatible dimensions
-3: else
-4:    let C be anew A.rows X B.columns matrix
-5:   for i -> 1 A.rows do
-6:     for j-> 1 B.columns do
-7:         c~i~ 
-8:
-9:
-10:
- 
-H~2~O
-
- 
-0
- for k 1 A.columnsdo
- ci j 
-RETURNC
- ci j 
-aik bkj
 
 ![](/Image.png)
